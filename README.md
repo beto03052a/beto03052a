@@ -1,5 +1,5 @@
-<!-- ✅ Tech Stack & Languages (sin CSS, solo servicios permitidos) -->
-<h2 align="center">🖥️ Tech Stack & Languages</h2>
+
+<h2 align="center">Stack & Languages</h2>
 
 <!-- Icons: skillicons.dev (modo oscuro) -->
 <p align="center">

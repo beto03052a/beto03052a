@@ -1,10 +1,11 @@
-<!-- Encabezado animado -->
-<h1 align="center">✨ Hola, soy <span style="color:#00BFFF;">Roberto Rodríguez</span> 👋</h1>
-<h3 align="center">Desarrollador Web & Móvil | Estudiante de Ingeniería de Sistemas en <span style="color:#FF4F00;">Univalle</span> 🇧🇴</h3>
+<!-- 🌈 Fondo con gradiente -->
+<div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #1E3C72 50%, #2A5298 100%); padding: 40px; border-radius: 20px;">
+
+<h1 align="center" style="color:#00BFFF;">👋 ¡Hola! Soy Roberto Rodríguez</h1>
+<h3 align="center" style="color:#E0E0E0;">Desarrollador Web & Móvil | Estudiante de Ingeniería de Sistemas en <span style="color:#FF4F00;">Univalle</span> 🇧🇴</h3>
 
 ---
 
-<!-- Imagen o banner animado -->
 <p align="center">
   <img src="https://i.ibb.co/M8xHn1F/banner-dev.gif" alt="Banner" width="90%">
 </p>
@@ -44,15 +45,15 @@
 
 ---
 
-### 📈 Mis estadísticas
+### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beto03052a&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=beto03052a&theme=radical&hide_border=true&background=0D1117" alt="Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beto03052a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117,1E3C72,2A5298&title_color=00BFFF&icon_color=00BFFF" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=beto03052a&theme=tokyonight&hide_border=true&background=0D1117,1E3C72,2A5298&ring=00BFFF" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto03052a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto03052a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117,1E3C72,2A5298" height="160" />
 </p>
 
 ---
@@ -73,5 +74,7 @@
 
 ---
 
-<h4 align="center">⚡ “El mejor código es el que mejora la vida de alguien.” ⚡</h4>
+<h4 align="center" style="color:#E0E0E0;">⚡ “El mejor código es el que mejora la vida de alguien.” ⚡</h4>
+
+</div>
 

@@ -1,27 +1,54 @@
-<!-- 🔥 Tarjeta moderna de stack + lenguajes -->
-<div align="center" style="
-  background: linear-gradient(135deg, rgba(15,16,32,0.95) 0%, rgba(17,20,51,0.95) 40%, rgba(10,42,94,0.95) 100%);
-  border-radius: 25px;
-  padding: 40px 25px;
-  border: 1px solid rgba(255,255,255,0.05);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.4), inset 0 1px 1px rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  max-width: 850px;
-  margin: auto;
-">
+<!-- ⚡️ Tech Stack + Languages — Ultra Modern -->
+<div align="center" style="margin: 10px 0;">
+  <!-- Marco con borde neón degradado -->
+  <div style="
+    --g: linear-gradient(135deg,#00e0ff 0%,#7a5cff 50%,#ff4f9a 100%);
+    background:
+      linear-gradient(#0c1022 0 0) padding-box,
+      var(--g) border-box;
+    border: 2px solid transparent;
+    border-radius: 26px;
+    padding: 28px 22px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.45), 0 0 24px rgba(122,92,255,.25);
+    max-width: 900px;
+  ">
 
-<h2 align="center" style="color:#00BFFF; font-weight:700;">💻 Tech Stack & Languages</h2>
+  <!-- Título con texto en gradiente -->
+  <h2 style="
+    margin: 0 0 18px 0;
+    font-weight: 800;
+    letter-spacing:.3px;
+    background: linear-gradient(135deg,#c8e9ff 0%,#b7b2ff 50%,#ffc0da 100%);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  ">
+    💻 Tech Stack & Languages
+  </h2>
 
-<p align="center" style="margin: 25px 0;">
-  <img src="https://skillicons.dev/icons?i=java,dotnet,html,css,js,androidstudio,spring,postgresql,mysql,git,github,figma,vscode,visualstudio&theme=dark&perline=7" />
-</p>
+  <!-- Icons -->
+  <p align="center" style="margin: 6px 0 20px 0;">
+    <img src="https://skillicons.dev/icons?i=java,dotnet,html,css,js,androidstudio,spring,postgresql,mysql,git,github,figma,vscode,visualstudio&theme=dark&perline=7" />
+  </p>
 
-<div align="center" style="margin-top: 25px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto03052a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,1E3C72,2A5298&title_color=00BFFF&text_color=E6E6E6" height="180" style="border-radius:20px; box-shadow: 0 0 15px rgba(0,191,255,0.3);" />
-</div>
+  <!-- Panel glass para el gráfico -->
+  <div style="
+    background: linear-gradient(135deg,rgba(255,255,255,0.06),rgba(255,255,255,0.02));
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 18px;
+    padding: 14px 14px 8px;
+    display:inline-block;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.06), 0 8px 22px rgba(0,0,0,.35);
+  ">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto03052a&layout=compact&hide_border=true&theme=transparent&title_color=8AB4FF&text_color=E6E6E6"
+      alt="Top Languages"
+      height="188"
+      style="border-radius:14px; display:block; filter: drop-shadow(0 0 10px rgba(122,92,255,.25));"
+    />
+  </div>
 
-<p align="center" style="color:#aaa; font-size:13px; margin-top:20px;">
-✨ Actualizado automáticamente según tu actividad en GitHub ✨
-</p>
+  <p style="color:#9aa4b2; font-size:12px; margin:12px 0 0 0;">
+    auto-actualizado • vista compacta • tema transparente
+  </p>
 
+  </div>
 </div>

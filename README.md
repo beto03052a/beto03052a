@@ -1,5 +1,4 @@
 
-Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,dotnet,html,css,js,androidstudio,spring,postgresql,mysql,git,github,figma,vscode,visualstudio&theme=dark&perline=7" />
 </p>
